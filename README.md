@@ -1,11 +1,9 @@
 ## Hi, I'm Jasmin👋
-I am currently in my 3rd semester studying Business Informatics.
+
+I am a graduate of Business Informatics.
 
 My interests are especially web technologies and web development.
-
-<br>
-🔎 I am always open to new projects. If you are also a beginner and have a cool idea in mind or looking for an exchange, let me know. 		
-
+	
 ### You can reach me here but also via Linkedin or Email. 📫 
 
 [<img align="left" alt="Jasmin Quast | Linkedin" src="" />][linkedin]
